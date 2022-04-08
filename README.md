@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Full-Stack Post-It Application
 
 This is a full-stack application that users can create their own posts with text and images and share posts with others.
 
